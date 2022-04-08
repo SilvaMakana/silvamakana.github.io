@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ʻO Makana Silva au"
+title: "Hoʻolauna ʻana o Makana"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-_Aloha mai kākou, ʻo Makana Silva koʻu inoa. No Mākaha mai au a ʻoiai i kaʻu hana ʻana ma ke kula nui o Hawaiʻi ma Mānoa no kēkele laeʻula o kālaikūlohea, ua noho au i Kailua. I kēia manawa, iaʻu e hana ai ma ke kula nui o Ohio State no ka palapala laeʻula o kālaikūlohea. Makemake au e hoʻi mai i kuʻu home me kaʻu palapala laeʻula a ʻimi naʻauao au e pili ana ka kilo hōkū o Hawaiʻi ʻoiai i kaʻu mālama ʻana no kākou Lāhui._
+_Aloha mai kākou, ʻo Makana Silva koʻu inoa. No Mākaha mai au. ʻOiai i kaʻu hana ʻana ma ke kula nui o Hawaiʻi ma Mānoa no kēkele laeʻula o kālaikūlohea, ua noho au i Kailua. I kēia manawa, iaʻu e hana ai ma ke kula nui o Ohio State no ka palapala laeʻula o kālaikūlohea. Makemake au e hoʻi mai i kuʻu home me kaʻu palapala laeʻula a iaʻu e kilo ana i ka hula ʻana o nā hōkū make, ʻimi naʻauao au e pili ana ka kilo hōkū o Hawaiʻi, a ʻoiai i kaʻu mālama ʻana no ko kākou Lāhui._
 
-Hello, my name is Makana Silva, I am from Mākaha on the island of Oʻahu. While I was going to the University of Hawaiʻi at Mānoa for my B.S in physics, I was living in Kailua, Oʻahu. Currently, I work at the Ohio State University for my PhD in physics. My goal is to return to Hawaiʻi with my graduate degree and learn about astronomy in Hawaiʻi while growing and tending to our local communities.
+_Hello, my name is Makana Silva, I am from Mākaha on the island of Oʻahu. While I was going to the University of Hawaiʻi at Mānoa for my B.S in physics, I was living in Kailua, Oʻahu. Currently, I work at the Ohio State University for my PhD in physics. My goal is to return to Hawaiʻi with my graduate degree and study the dynamics of black holes, learn about astronomy in Hawaiʻi, while growing and tending to our local communities._
+
+
 
 <!---
 your comment goes here

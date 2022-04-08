@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Intro Page"
+title                    : "Makana Silva"
 title_separator          : "-"
 name                     : &name "Makana Silva"
 description              : &description "Test Test"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Makana Silva"
   avatar           : "profile.png"
-  bio              : "Strongman and astrophysics all day everyday"
+  bio              : "Just a braddah trying to lift and learn"
   location         : "Columbus, OH"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         :  "The Ohio State University"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "silva.179@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
