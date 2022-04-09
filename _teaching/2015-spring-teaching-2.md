@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Math, Chemistry, and Physics Tutor"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Learning Assistance Center, University of Hawaiʻi"
 date: 2015-01-01
-location: "City, Country"
+location: "Honolulu, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+General STEM tutor for undergraduate courses in chemistry, math, and physics from _Jan. 2015 - May 2017_.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+Tutored students in inorganic chemistry, classical mechanics, electromagnetism, modern physics, and vector
+calculus
 ======
