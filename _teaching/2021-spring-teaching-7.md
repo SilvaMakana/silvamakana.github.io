@@ -10,5 +10,7 @@ location: "Honolulu, USA"
 
 Became Board of Director for the non-profit ʻOhana Kilo Hōkū (OKH).
 
+[Homepage](https://www.ohanakilohoku.org/)
+
 OKH is a non - profit Native Hawaiian organization dedicated to cultivating and supporting communities in Hawaiʻi that are interested in pursuing STEM related careers.
 ===
