@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Aloha mai kākou, ʻo Makana Silva koʻu inoa. No Mākaha mai au. ʻOiai ua hana au ma ke kula nui o Hawaiʻi ma Mānoa no kēkelē laeʻula o ke kālaikūlohea, ua noho au i Kailua. I kēia manawa, naʻu e hana nei ma ke kula nui o Ohio State no ka palapala laeʻula o ke kālaikūlohea. Makemake au e hoʻi mai i kuʻu home me kaʻu palapala laeʻula, naʻu e kilo ana i ka hulahula ʻana o nā hōkū make, ʻimi naʻauao au e pili ana ke kilo hōkū o Hawaiʻi, a naʻu e mālama ana no ko kākou Lāhui._
+_Aloha mai kākou, ʻo Makana Silva koʻu inoa. No Mākaha mai au. ʻOiai ua hana au ma ke kula nui o Hawaiʻi ma Mānoa no he kēkelē laeʻula o ke kālaikūlohea, ua noho au i Kailua. I kēia manawa, naʻu e hana nei ma ke kula nui o Ohio State no ka palapala laeʻula o ke kālaikūlohea. Makemake au e hoʻi mai i kuʻu home me kaʻu palapala laeʻula, naʻu e kilo ana i ka hulahula ʻana o nā hōkū make, ʻimi naʻauao au e pili ana ke kilo hōkū o Hawaiʻi, a naʻu e mālama ana no ko kākou Lāhui._
 
 _Hello, my name is Makana Silva, I am from Mākaha on the island of Oʻahu. While I was going to the University of Hawaiʻi at Mānoa for my B.S in physics, I was living in Kailua, Oʻahu. Currently, I work at the Ohio State University for my PhD in physics. My goals are to return to Hawaiʻi with my graduate degree and study the dynamics of black holes, learn about astronomy in Hawaiʻi, and grow and tend to our local communities._
 
