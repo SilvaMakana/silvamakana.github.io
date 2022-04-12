@@ -5,7 +5,8 @@ permalink: /education/
 author_profile: true
 ---
 
-##<u>Research Topics</u>
+## Research Topics
+___
 
 - Gravitational waves as a cosmological probes
 
@@ -13,7 +14,8 @@ author_profile: true
 
 - Black hole perturbation theory
 
-##<u>Education</u>
+## Education
+___
 
 - The Ohio State University, Columbus Campus
 	- Doctorate in Physics, _Aug. 2017 - Present_
