@@ -25,3 +25,25 @@ ___
 
 - Kamehameha High Schools, Kapālama Campus
 	- High School Diploma, 2014
+
+## Academic Achievements
+___
+
+- Hazel Brown Outstanding Teaching Award, _Dec. 2019_
+	- Teaching Assistant Award
+- Graduate Enrichment Fellowship, _Aug. 2017_
+	- Academic Grant
+- SACNAS Travel Scholarship, _June 2016_
+	- Presentation Grant
+- College of Natural Arts and Sciences Native Hawaiian Scholarship, _June 2016_
+	- Academic Grant
+- Vincent Z. Peterson Scholarship, _June 2016_
+	- Academic Grant
+- Ka Hikinia O Ka Lā Scholarship, _June 2015 - June 2017_
+	- Academic Grant
+- Undergraduate Research Opportunity Program (UROP) Grant, _Aug. 2015_
+	- Research Grant
+- Zecha Foundation Scholarship, _Aug. 2015_
+	- Academic Grant
+- University of Hawai‘i Foundations Scholarship, _May 2014_
+	- Academic Grant
