@@ -5,8 +5,15 @@ permalink: /education/
 author_profile: true
 ---
 
-Education
-===
+##<u>Research Topics</u>
+
+- Gravitational waves as a cosmological probes
+
+- Dynamics of compact binary objects
+
+- Black hole perturbation theory
+
+##<u>Education</u>
 
 - The Ohio State University, Columbus Campus
 	- Doctorate in Physics, _Aug. 2017 - Present_
@@ -16,13 +23,3 @@ Education
 
 - Kamehameha High Schools, Kapālama Campus
 	- High School Diploma, 2014
-
-
-Research Topics
-===
-
-- Gravitational waves as a cosmological probes
-
-- Dynamics of compact binary objects
-
-- Black hole perturbation theory
