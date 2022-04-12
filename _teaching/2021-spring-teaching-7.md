@@ -8,7 +8,7 @@ date: 2021-11-01
 location: "Honolulu, USA"
 ---
 
-Became Board of Director for the non-profit ʻOhana Kilo Hōkū (OKH).
+Became Board of Director for the non-profit ʻOhana Kilo Hōkū (OKH) from _Nov. 2021 - Present_.
 
 [Homepage](https://www.ohanakilohoku.org/)
 

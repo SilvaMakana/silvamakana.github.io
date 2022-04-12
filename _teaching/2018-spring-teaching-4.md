@@ -8,7 +8,7 @@ date: 2018-08-01
 location: "Columbus, USA"
 ---
 
-Worked for the NSF funded _ASPIRE_ project teaching high school girls about radio interferometry.
+Worked for the NSF funded _ASPIRE_ project teaching high school girls about radio interferometry in _Aug. 2018_.
 
 Develop and execute a comprehensive introduction to basic wave interferometry to high school girls
 ===
