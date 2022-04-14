@@ -26,6 +26,30 @@ ___
 - Kamehameha High Schools, Kapālama Campus
 	- High School Diploma, 2014
 
+## Research Experience
+___
+
+- Graduate Research Assistant, _Aug. 2017 - Present_
+	- OSU, Advisor: Christopher Hirata
+	- Study the effects of a dynamic perturbation around an extreme mass ratio inspiral (EMRI)
+	- Develop statistical measures for the impact of circumgalatic dust on weak lensing surveys
+	- Analyze atomic transitions in escaping atmospheres of exoplanets and calculate emitted radiation profiles
+	- Analyze primordial black hole mass constraints using femtolensing and microlensing techniques in order to test possibility as a dark matter candidate
+
+- Naval Research Enterprise Internship Program (NREIP) Summer Intern, _May 2017 - Aug. 2017_
+	- Naval Research Laboratory (NRL), Advisors: Tanner Crowder and Keye Martins
+	- Studied String Theory, Quantum Field Theory on Curved Spacetime, and Loop Quantum Gravity and analyzed similarities between the theories
+	- Applied methods of soliton analysis to General Relativity and analyzed the properties of the solitons in the Loop Quantum Gravity context
+	- Analyzed topological nature of solitons and compared them to certain parameters in Loop Quantum Gravity
+
+- Mathematical Physics Research Assistant, _Feb. 2015 - May 2017_
+	- UHM, Advisor: Sarah Post
+	- Obtained external funding via Undergraduate Research Opportunity Program Grant
+	- Developed solutions (exact and numeric) to non-linear partial differential equations relating to soliton dynamics and other non-linear mechanics
+	- Generated computer simulations of soliton dynamics
+	- Studied physical processes that can be modeled by systems of solitons
+	- Presented results at University of Hawai‘i and other academic conferences
+
 ## Academic Achievements
 ___
 
