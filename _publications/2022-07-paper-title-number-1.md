@@ -10,6 +10,6 @@ venue: '(TBD)'
 ---
 We compute the evolution of the action variables of an EMRI that is in resonance with a dynamic perturbation around a spinning black hole. We relate the Weyl invariant scalars that contain the emitted gravitational waveforms from the EMRI and perturbation to track the inspiral evolution.
 
-#[Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/ac6acc)
+<!--[Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/ac6acc) -->
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
