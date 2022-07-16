@@ -31,7 +31,7 @@ ___
 
 - Graduate Research Assistant, _Aug. 2017 - Present_
 	- OSU, Advisor: Christopher Hirata
-	- Study the effects of a dynamic perturbation around an extreme mass ratio inspiral (EMRI)
+	- Analyze resonant phenomena in relativistic three-body interactions as applied to extreme mass ratio inspirals (EMRIs)
 	- Develop statistical measures for the impact of circumgalatic dust on weak lensing surveys
 	- Analyze atomic transitions in escaping atmospheres of exoplanets and calculate emitted radiation profiles
 	- Analyze primordial black hole mass constraints using femtolensing and microlensing techniques in order to test possibility as a dark matter candidate
