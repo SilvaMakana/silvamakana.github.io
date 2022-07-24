@@ -12,7 +12,7 @@ _Aloha mai kākou, ʻo Makana Silva koʻu inoa. No Mākaha mai au. ʻOiai ua han
 
 _Hello, my name is Makana Silva, I am from Mākaha on the island of Oʻahu. While I was going to the University of Hawaiʻi at Mānoa for my B.S in physics, I was living in Kailua, Oʻahu. Currently, I work at the Ohio State University for my PhD in physics. My goals are to return to Hawaiʻi with my graduate degree and study the dynamics of black holes, learn about astronomy in Hawaiʻi, and grow and tend to our local communities._
 
-
+[Click here for my CV](https://silvamakana.github.io/files/Makana_Silva_Resume.pdf)
 
 <!---
 
