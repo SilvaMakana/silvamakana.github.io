@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Makana Silva"
   avatar           : "deadlift_2.png"
-  bio              : "Just a braddah trying to get a PhD and lift"
+  bio              : "Theoretical Astrophysics PhD Candidate"
   location         : "Columbus, OH"
   employer         :  "The Ohio State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UbqEYOQAAAAJ&hl=en"
   email            :  "silva.179@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
