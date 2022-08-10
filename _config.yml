@@ -29,3 +29,14 @@ google-analytics:
   id: "G-5Q26NMTSYK"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+collections:
+  outreach:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
