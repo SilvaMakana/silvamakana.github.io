@@ -1,23 +1,18 @@
 <div class="user-details">
   <h1> Featured Projects </h1>
 </div>
+
 <div class="user-projects">
-  <!-- <div class="images-right">
-    <img alt="SNN_Diagram" src="{{ "/assets/img/SNN_image.png" | prepend: site.baseurl }}" />
-  </div> -->
-  <div class="contents-left">
-    <h3> Dynamical perturbations around an extreme mass ratio inspiral near resonance </h3>
-    <p>Developed a general method for tracking the evolution of orbital quantities of an extreme mass ratio inspiral (EMRI) during a resonant interaction with a dynamic external perturbation around a spinning black hole.</p>
-    <a class="project-link" href="http://localhost:4000/website/publication/2022-07-15-paper-title-number-1">Check it out</a>
-  </div>
-</div>
-<div class="user-projects">
-  <!-- <div class="images-left">
-    <img alt="probability" src="{{ "/assets/img/estimating_prob.png" | prepend: site.baseurl }}" />
-  </div> -->
-  <div class="contents-left">
-    <h3> Effect of dust in circumgalactic haloes on the cosmic shear power spectrum </h3>
-    <p>Analyzed the systematic effects of circumgalactic dust in a weak lensing survey.</p>
-    <a class="project-link" href="http://localhost:4000/website/publication/2021-10-01-paper-title-number-1">Check it out</a>
-  </div>
+
+  {% for paper in site.publications %}
+    {% if paper.featured %}
+      <div class="contents-left">
+        <h3>{{ paper.title }}</h3>
+        <p>{{ paper.excerpt }}</p>
+        <a class="project-link" href="{{paper.url | prepend: site.baseurl}}">Check it out</a>
+      </div>
+      <hr>
+    {% endif %}
+  {% endfor %}
+
 </div>

@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: page
 title: "Outreach & Teaching"
 permalink: /outreach/
 author_profile: true
 ---
 
+<h1>{{ page.title }}</h1>
+
 {% for post in site.outreach reversed %}
-    <a href="{{post.url | prepend: site.baseurl}}"><h1>{{post.title}}</h1></a>
+    <h3>{{post.title}}</h3>
+    <p>
+      {{ post.type}}, <i>{{ post.venue }}</i>, {{ post.date |  date: "%Y"}}
+    </p>
+    <p>
+      {{ post.content | markdownify }}
+    </p>
   <hr>
 {% endfor %}

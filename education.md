@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Education & Research"
 permalink: /education/
 author_profile: true
 ---
+
+# {{ page.title }}
 
 ## Research Topics
 ___

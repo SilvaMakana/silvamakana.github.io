@@ -7,6 +7,8 @@ date: 2022-07-15
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2207.07733.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+featured: True
+layout: post
 ---
 We compute the evolution of the action variables of an EMRI that is in resonance with a dynamic perturbation around a spinning black hole. We relate the Weyl invariant scalars that contain the emitted gravitational waveforms from the EMRI and perturbation to track the inspiral evolution. We compare our general/analytic technique with known results of static resonant cases (Keplerian and relativistic) and find a reasonably strong convergance with our dynamic cases and literature results.
 

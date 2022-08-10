@@ -1,12 +1,25 @@
 ---
-layout: post
+layout: page
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+<h1>{{ page.title }}</h1>
+
 {% for post in site.publications reversed %}
-    <a href="{{post.url | prepend: site.baseurl}}"><h1>{{post.title}}</h1></a>
+    <a href="{{post.url | prepend: site.baseurl}}">
+      <h3>{{post.title}}</h3>
+    </a>
+    <p>
+      Published in <i>{{ post.venue }}</i>
+    </p>
+    <p>
+      {{ post.excerpt }}
+    </p>
+    <p>
+      Download <a href="{{ post.paperurl }}">here</a>
+    </p>
   <hr>
 {% endfor %}
 

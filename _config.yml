@@ -1,8 +1,8 @@
 # Site settings
 title: "Makana Silva: Theoretical Astrophysics PhD Candidate"
 description: A blog about Makana Silva
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://silvamakana1.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://silvamakana.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Makana Silva

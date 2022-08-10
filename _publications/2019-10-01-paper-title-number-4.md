@@ -7,6 +7,8 @@ date: 2019-10-01
 venue: 'JCAP'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1475-7516/2019/08/031/pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+featured: False
+layout: post
 ---
 We use three methods for analyzing the fraction of PBHs that could be dark matter in this mass range: optical microlensing with finite size and diffraction effects, dynamical capture of PBHs in stars using phase space arguments, and destruction of white dwarfs from PBH crossing from hydrodynamic simulations. These three constraints open the possibility that this mass-range could be a dark matter candidate.
 

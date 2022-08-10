@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    <div class="header-icons" style="background-color: #1a222c;">
+        <a href="{{ site.baseurl}}/">
+            <i class="icon fa fa-home"></i>
+        </a>
+    </div>
+    <!-- TODO: Change #about and #projects to something generic -->
+    <section id="about">
+    {{ content }}
+    </section>
+</body>
+
+{% include footer.html %}
