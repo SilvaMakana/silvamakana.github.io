@@ -4,7 +4,7 @@
 
 <div class="user-projects">
 
-  {% for paper in site.publications %}
+  {% for paper in site.publications reversed %}
     {% if paper.featured %}
       <div class="contents-left">
         <h3>{{ paper.title }}</h3>
