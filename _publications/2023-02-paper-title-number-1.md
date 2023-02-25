@@ -3,7 +3,7 @@ title: "Corrections to Hawking Radiation from Asteroid Mass Primordial Black Hol
 collection: publications
 permalink: /publication/2022-10-04-paper-title-number-1
 excerpt: 'Computed the $\mathcal{O}(\alpha)$ correction to Hawking radiation from asteroid mass primordial black holes (PBHs $10^{17}{\rm g}-10^{22}{\rm g}$) from dissipative interactions from electron/positron interactions.'
-date: 2022-10-04
+date: 2023-02-09
 venue: 'PRD'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d5004S/abstract'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

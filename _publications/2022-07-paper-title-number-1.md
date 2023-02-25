@@ -3,7 +3,7 @@ title: "Dynamical perturbations around an extreme mass ratio inspiral near reson
 collection: publications
 permalink: /publication/2022-07-15-paper-title-number-1
 excerpt: 'Developed a general method for tracking the evolution of orbital quantities of an extreme mass ratio inspiral (EMRI) during a resonant interaction with a dynamic external perturbation around a spinning black hole.'
-date: 2022-07-15
+date: 2022-10-28
 venue: 'PRD'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022PhRvD.106h4058S/abstract'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
