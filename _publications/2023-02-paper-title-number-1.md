@@ -1,7 +1,7 @@
 ---
 title: "Corrections to Hawking Radiation from Asteroid Mass Primordial Black Holes: I. Formalism of Dissipative Interactions in Quantum Electrodynamics"
 collection: publications
-permalink: /publication/2022-10-04-paper-title-number-1
+permalink: /publication/2023-02-09-paper-title-number-1
 excerpt: 'Computed the $\mathcal{O}(\alpha)$ correction to Hawking radiation from asteroid mass primordial black holes (PBHs $10^{17}{\rm g}-10^{22}{\rm g}$) from dissipative interactions from electron/positron interactions.'
 date: 2023-02-09
 venue: 'PRD'

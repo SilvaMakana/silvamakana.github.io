@@ -1,7 +1,7 @@
 ---
 title: "Effect of dust in circumgalactic haloes on the cosmic shear power spectrum"
 collection: publications
-permalink: /publication/2021-10-01-paper-title-number-1
+permalink: /publication/2022-07-01-paper-title-number-1
 excerpt: 'Analyzed the systematic effects of circumgalactic dust in a weak lensing survey.'
 date: 2022-07-01
 venue: 'ApJ'
