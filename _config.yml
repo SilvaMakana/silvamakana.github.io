@@ -1,19 +1,19 @@
 # Site settings
-title: "Makana Silva: Theoretical Astrophysics PhD Candidate"
+title: "Makana Silva: Theoretical Astrophysics PhD"
 description: A blog about Makana Silva
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://silvamakana.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Makana Silva
-user_description: "<p><i>ʻO Makana Silva koʻu inoa. No Mākaha mai au. ʻOiai ua hana au ma ke kula nui o Hawaiʻi ma Mānoa no ke kēkelē laeʻula o ke kālaikūlohea, ua noho au i Kailua. I kēia manawa, naʻu e hana nei ma ke kula nui o Ohio State no ka palapala laeʻula o ke kālaikūlohea. Makemake au e hoʻi mai i kuʻu home me kaʻu palapala laeʻula, naʻu e kilo ana i ka hulahula ʻana o nā hōkū make, ʻimi naʻauao au e pili ana ke kilo hōkū o Hawaiʻi, a naʻu e mālama ana no ko kākou Lāhui</i>.
+user_description: "<p><i>ʻO Makana Silva koʻu inoa. No Mākaha mai au. ʻOiai ua hana au ma ke kula nui o Hawaiʻi ma Mānoa no ke kēkelē laeʻula o ke kālaikūlohea, ua noho au i Kailua. Ma ka 06 ʻAukake 2023, loaʻa mai iaʻu ka palapala laeʻula o ke kālaikūlohea mai ke kula nui o Ohio State! I kēia manawa, naʻu e hana nei ma ke keʻena ʻimi naʻauao aupuni o Los Alamos. Makemake au e hoʻi mai i kuʻu home me kaʻu palapala laeʻula, naʻu e kilo ana i ka hulahula ʻana o nā hōkū make, ʻimi naʻauao au e pili ana ke kilo hōkū o Hawaiʻi, a naʻu e mālama ana no ko kākou Lāhui</i>.
 <br>
 <br>
-My name is Makana Silva, I am from Mākaha on the island of Oʻahu. While I was going to the University of Hawaiʻi at Mānoa for my B.S in physics, I was living in Kailua, Oʻahu. Currently, I work at the Ohio State University for my PhD in physics. My goals are to return to Hawaiʻi with my graduate degree and study the dynamics of black holes, learn about astronomy in Hawaiʻi, and grow and tend to our local communities.</p>
+My name is Makana Silva, I am from Mākaha on the island of Oʻahu. While I was going to the University of Hawaiʻi at Mānoa for my B.S in physics, I was living in Kailua, Oʻahu. On 06 August 2023, I recevied my PhD in physics from the Ohio State University! Currently, I am working at Los Alamos National Laboratory. My goals are to return to Hawaiʻi with my graduate degree and study the dynamics of black holes, learn about astronomy in Hawaiʻi, and grow and tend to our local communities.</p>
 "
 
 
-user_title: "Native Hawaiian astrophysics PhD candidate studying gravity in cosmology and astrophysics"
+user_title: "Native Hawaiian astrophysicist studying gravity on extreme physical scales"
 avatar: "deadlift_2.png"
 employer: "The Ohio State University"
 email: silva.179@osu.edu
