@@ -1,5 +1,5 @@
 ---
-title: "Board of Director"
+title: "Board of Directors"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/2018-spring-teaching-7
@@ -9,6 +9,6 @@ date_end: Present
 location: "Honolulu, USA"
 ---
 
-Became Board of Director for the non-profit ʻOhana Kilo Hōkū (OKH) from _{{ page.date_start | date: "%b. %Y" }} - {{ page.date_end }}_.
+Became a member of the Board of Directors for the non-profit ʻOhana Kilo Hōkū (OKH) from _{{ page.date_start | date: "%b. %Y" }} - {{ page.date_end }}_.
 
 [OKH](https://www.ohanakilohoku.org/) is a non-profit Native Hawaiian organization dedicated to cultivating and supporting communities in Hawaiʻi that are interested in pursuing STEM related careers.

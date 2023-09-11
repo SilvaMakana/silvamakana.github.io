@@ -20,7 +20,7 @@ ___
 ___
 
 - The Ohio State University (OSU), Columbus Campus
-	- Doctorate in Physics, _Aug. 2017 - Present_
+	- Doctorate in Physics, _Aug. 2017 - Aug. 2023_
 
 - University of Hawaiʻi at Mānoa (UHM)
 	- Bachelors of Science in Physics, _Magna Cum Laude_, _Aug. 2014 - May 2017_
@@ -31,7 +31,7 @@ ___
 ## Research Experience
 ___
 
-- Graduate Research Assistant, _Aug. 2017 - Present_
+- Graduate Research Assistant, _Aug. 2017 - Aug. 2023_
 	- OSU, Advisor: Christopher Hirata
 		- Analyze resonant phenomena in relativistic three-body interactions as applied to extreme mass ratio inspirals (EMRIs)
 		- Develop statistical measures for the impact of circumgalatic dust on weak lensing surveys
@@ -55,6 +55,8 @@ ___
 ## Academic Achievements
 ___
 
+- Director's Fellowship, Los Alamos National Laboratory, _Nov. 2023_
+	- Postdoctoral Fellowship
 - Hazel Brown Outstanding Teaching Award, _Dec. 2019_
 	- Teaching Assistant Award
 - Graduate Enrichment Fellowship, _Aug. 2017_
