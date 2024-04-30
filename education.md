@@ -32,7 +32,7 @@ ___
 ___
 
 - Director's Fellow, _Nov. 2023 - Present_
-	- Los Alamos National Laboratory, Advisors: Nicole Lloyd-Ronning, Hyun Lim, Oleg Krobkin
+	- Los Alamos National Laboratory, Advisors: Nicole Lloyd-Ronning, Hyun Lim, Oleg Korobkin
 		- Develop analytical and numerical tools to study broad parameter spaces of relativistic three-body interactions
 		- Develop the formalism for interacting theories of Hawking radiation on curved spacetimes
 
