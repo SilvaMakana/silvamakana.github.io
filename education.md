@@ -31,6 +31,11 @@ ___
 ## Research Experience
 ___
 
+- Director's Fellow, _Nov. 2023 - Present_
+	- Los Alamos National Laboratory, Advisors: Nicole Lloyd-Ronning, Hyun Lim, Oleg Krobkin
+		- Develop analytical and numerical tools to study broad parameter spaces of relativistic three-body interactions
+		- Develop the formalism for interacting theories of Hawking radiation on curved spacetimes
+
 - Graduate Research Assistant, _Aug. 2017 - Aug. 2023_
 	- OSU, Advisor: Christopher Hirata
 		- Analyze resonant phenomena in relativistic three-body interactions as applied to extreme mass ratio inspirals (EMRIs)
